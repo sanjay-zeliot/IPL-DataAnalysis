@@ -8,3 +8,6 @@ Here mainy 4 objective are prioratized here:
 <li> To obtain the number of extra runs conceded by each team in the year 2016.
 <li> To obtain top ten economical bowlers in the year 2015.
 </ol>
+
+In the implementation, all tasks are modularized.
+Here in 4th task, we have also considered the case of considering only the bowlers with more than 50 balls delivered in the year 2015.

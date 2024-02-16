@@ -6,7 +6,7 @@ Here mainy 4 objective are prioratized here:
 <li> To obtain the number of matches played by each team in every year respectively.
 <li> To obtain the number of matches won by each team in every year respectively.
 <li> To obtain the number of extra runs conceded by each team in the year 2016.
-<li> To obtain top ten economical bowlers in the year 2015. 
+<li> To obtain top ten economical bowlers in the year 2015.
 </ol>
 
 In the implementation, all tasks are modularized.
